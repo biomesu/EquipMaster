@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: EquipMaster
+## Author: Biomes
+## Version: 1.0.0
+
+
+EquipMaster.lua
